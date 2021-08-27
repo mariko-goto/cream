@@ -1,5 +1,5 @@
 body {
-    background-image: url(leaf.png), url(bird.png), url(leafs.png);
+    background-image: url(images/leaf.png), url(bird.png), url(leafs.png);
     background-position: right -21% bottom -76%, right 97% top 19%, left -18% top 35%;
     background-repeat: no-repeat;
     display: flex;
