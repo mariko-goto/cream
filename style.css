@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/leaf.png), url(images/bird.png), url(images/leafs.png);
+    background-image: url(leaf.png), url(bird.png), url(leafs.png);
     background-position: right -21% bottom -76%, right 97% top 19%, left -18% top 35%;
     background-repeat: no-repeat;
     display: flex;
@@ -55,7 +55,7 @@ span {
     height: 29vw;
     /* background-color: #fff; */
     margin: 2% auto 5% auto;
-    background: linear-gradient(135deg, rgba(23, 23, 23, 0.5), rgba(23, 23, 23, 0.4)) fixed, url(images/main.png);
+    background: linear-gradient(135deg, rgba(23, 23, 23, 0.5), rgba(23, 23, 23, 0.4)) fixed, url(main.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
